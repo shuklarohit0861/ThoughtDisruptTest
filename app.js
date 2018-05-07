@@ -1,0 +1,1 @@
+let todoApp = angular.module('ThoughtDisruptApp', []);
